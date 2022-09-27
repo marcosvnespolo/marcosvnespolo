@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
   <h1 align="justify">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/italo013/">Marcos Vinícius</a> 😃️</h1>
 <p>Graduado em Engenharia ed Alimentos pela Universidade Tecnológica Federal do Paraná. <br>
