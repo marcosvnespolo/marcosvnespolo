@@ -37,7 +37,7 @@
 
 
 <div>
-  <h2 align="left"> O que tenho estudado no últimos meses</h2>
+  <h2 align="left"> O que tenho estudado nos últimos meses</h2>
 </div>
 
 <body>
@@ -56,7 +56,7 @@
   Trybe
 </h1>
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+
 
 
 <div align="center">
