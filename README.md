@@ -42,7 +42,7 @@
 
 <body>
 <ul>
-<li>Liguagem Python e suas principais bibliotecas (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, ...);</li>
+<li>Liguagem Python e suas principais bibliotecas (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn);</li>
 <li>Linguaguem de Banco de Dados Relacionais (MySQL);</li>
 <li>Ambientes de Programação e Versionamento (Jupyter, Git e GitHub);</li>
 <li>Estatística (Descritiva, Inferencial);</li>
