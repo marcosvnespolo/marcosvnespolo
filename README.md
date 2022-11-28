@@ -1,7 +1,7 @@
 <div>
   <h1 align="justify">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/italo013/">Marcos Vinícius</a> 😃️</h1>
 <p>Graduado em Engenharia de Alimentos pela Universidade Tecnológica Federal do Paraná. <br>
-  Aluno da formação em Dados da Escola DNC. <br>
+  Estudante da área de Análise e Ciência de Dados. <br>
   
 <div align="center">
   <a href="https://www.instagram.com/marcosvnespolo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
