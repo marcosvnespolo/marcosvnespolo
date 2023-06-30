@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/92809543/147509370-bfdc9029-5eb9-44ab-a551-d532b6efb0b7.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147509341-54d63b81-cbd2-4d40-aa01-5791f846651b.png" width="80" height=80"/>
 <img src="https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png" width="80" height=80"/> 
- <img src="https://jupyter.org/try" width="80" height=80"/>  
+
 </div>
 </br>
  <!-- <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
